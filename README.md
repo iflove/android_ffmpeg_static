@@ -12,6 +12,7 @@ sh build_ffmpeg.sh armv7-a full /Users/system/source/android-ffmpeg/FFmpeg/build
 
 ## 
 
+```tree
 ├── build
 ├── expat-2.2.3                   Expat库：用C编写的快速流式XML解析器
 ├── fdk-aac-0.1.5                 ffmpeg依赖fdk-aac库
@@ -30,3 +31,4 @@ sh build_ffmpeg.sh armv7-a full /Users/system/source/android-ffmpeg/FFmpeg/build
 ├── shine                         超级快的一个mp3编码库
 └── x264-snapshot-20171130-2245   x264版本
 
+```
